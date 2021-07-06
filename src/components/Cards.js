@@ -30,7 +30,7 @@ function Cards() {
               path='/services'
             />
             <CardItem
-              src='../images/img11.jpg'
+              src='https://github.com/praveensingh3123/react-website-musafir/blob/main/src/images/img11.jpg?raw=trues'
               text='Experience the breath taking view of Spiti Valley'
               label='Breath Taking'
               path='/products'
